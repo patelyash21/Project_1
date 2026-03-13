@@ -2,7 +2,7 @@
 # YouTube Mini Project
 
 Live Website:
-https://username.github.io/Project_1/
+https://patelyash21.github.io/Project_1/
 
 Technologies Used:
 HTML
