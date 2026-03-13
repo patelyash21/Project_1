@@ -6,7 +6,7 @@ let playVideo = () => {
     iframe.title = video.title;
     let v_title = document.createElement('h3');
     v_title.innerText = videoData.title;
-    let channel_title = document.createElement('p');
+    let channel_title = document.createElement('Y');
     channel_title.innerText = videoData.channelTitle;
     div.append(v_title,channel_title);
 }
