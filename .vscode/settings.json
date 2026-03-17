@@ -1,7 +1,0 @@
-{
-    "files.exclude": {
-        "": true,
-        "code.c": true
-    },
-    "search.useParentIgnoreFiles": true
-}
