@@ -3,7 +3,7 @@
 This is my YouTube Clone project.
 
 ## Live Website:
-https://patelyash21.github.io/Project_1/you-tube/
+https://patelyash21.github.io/Project_1/
 
 ## Features
 - YouTube UI
